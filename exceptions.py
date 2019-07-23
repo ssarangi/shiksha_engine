@@ -1,0 +1,2 @@
+class ClassMethodNotImplementedException(Exception):
+    pass
